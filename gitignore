@@ -1,0 +1,13 @@
+# Dados reais da loja: NUNCA subir para o GitHub
+estoque.db
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+
+# Geração do .exe (PyInstaller)
+build/
+dist/
+*.spec
